@@ -137,7 +137,6 @@ body {
 .final {
     position: relative;
     bottom: 0;
-    width: 100%;
     padding: 50px;
     color: white;
     background-color: #32b9cd;
@@ -146,8 +145,6 @@ body {
 .final .container {
     justify-content: center;
     font-family: Arial, Helvetica, sans-serif;
-    align-items: center;
-    text-align: center;
 }
 
 .versao {
